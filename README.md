@@ -4,7 +4,7 @@
 
 - 📚 I’m currently learning React, Javascript, Nodejs and Firebase.
 - 👯 I’m looking to collaborate with other passionate developers.
-- 🥅 2021 Goals: Master React, Complete MERN Stack. Contribute to Open Source projects.
+- 🥅 2021 Goals: Master React & Next. Contribute to Open Source projects.
 - ⚡ Fun fact: I love watching football. Arsenal core fan. let's go!!.
 
 ### Languages and Tools:
