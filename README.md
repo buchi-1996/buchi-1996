@@ -1,6 +1,6 @@
 ### Hi there i'm Buchi👋
 
-## I'm a Junior Front-end Developer. love to code! 
+## I'm a Front-end Developer. love to code! 
 
 - 📚 I’m currently learning React, Javascript, Nodejs and Firebase.
 - 👯 I’m looking to collaborate with other passionate developers.
